@@ -1,0 +1,7 @@
+SET a 67
+SET b 404
+ADD a b
+SUB a 2
+MUL a b
+DIV a 2
+PRINT a
